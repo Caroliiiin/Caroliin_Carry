@@ -6,6 +6,8 @@ Nach Ablauf des Ladebalkens wird die Person hochgehoben.
 
 Des Weiteren können Personen auch mit X wieder abgesetzt werden anstatt erneut /carry einzugeben. Auch getragene Personen können sich mit X befreien.
 
+______________________________________________________________________________________________________________________________________________________
+
 🇺🇸
 This script adds a loading bar when lifting with /carry so that the system cannot be exploited. 
 Once the loading bar has expired, the person is lifted.
