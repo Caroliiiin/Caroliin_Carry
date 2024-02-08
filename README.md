@@ -11,3 +11,7 @@ ________________________________________________________________________________
 Once the loading bar has expired, the person is lifted.
 
 Furthermore, people can also be set down again with X instead of entering /carry again. Carried persons can also use X to free themselves.
+
+______________________________________________________________________________________________________________________________________________________
+
+Erforderliche Voraussetzung | Requiered dependency: https://github.com/SWRP-PUBLIC/pogressBar
